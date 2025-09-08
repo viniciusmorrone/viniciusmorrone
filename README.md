@@ -13,7 +13,7 @@
 
 <p align="center">Me chamo Vinícius Morrone, tenho 18 anos e sou natural de São Paulo. Concluí um curso profissionalizante feito pela EBAC de Desenvolvedor FullStack - Python e atualmente estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Sou uma pessoa que gosta bastante de tecnologia e das ferramentas que ela proporciona, por isso, sempre quero aprender mais e mais. Sou um grande colaborador, visando sempre em elaborar projetos com grande qualidade e com novas ferramentas. 
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="center">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:viniciusmorronelustosa5@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/viniciusmorrone/)
