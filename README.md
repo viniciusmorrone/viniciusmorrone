@@ -127,8 +127,6 @@ Me chamo Vinícius Morrone, tenho 18 anos e sou natural de São Paulo. Concluí 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-
-<br/>
 <br/>
 
 ### 📊 Estatísticas
