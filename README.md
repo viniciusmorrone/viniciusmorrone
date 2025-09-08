@@ -12,13 +12,6 @@ Me chamo Vinícius Morrone, tenho 18 anos e sou natural de São Paulo. Concluí 
             src="https://custom-icon-badges.demolab.com/github/followers/viniciusmorrone?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://github.com/viniciusmorrone?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no Linkedin" 
-            src="https://custom-icon-badges.demolab.com/badge/linkedin.svg?logo=linkedin&logoSource=feather"
-        />
-    </a>
 </p>
 
 ---
