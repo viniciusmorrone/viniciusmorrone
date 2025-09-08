@@ -1,4 +1,9 @@
-# 👩🏻‍💻 Vinícius Morrone
+<p align="center"># 👩🏻‍💻 Vinícius Morrone
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
 **`Desenvolvedor FullStack`**
 <p align="center">Me chamo Vinícius Morrone, tenho 18 anos e sou natural de São Paulo. Concluí um curso profissionalizante feito pela EBAC de Desenvolvedor FullStack - Python e atualmente estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Sou uma pessoa que gosta bastante de tecnologia e das ferramentas que ela proporciona, por isso, sempre quero aprender mais e mais. Sou um grande colaborador, visando sempre em elaborar projetos com grande qualidade e com novas ferramentas. 
