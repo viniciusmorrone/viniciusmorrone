@@ -4,13 +4,12 @@
 
 Me chamo Vinícius Morrone, tenho 18 anos e sou natural de São Paulo. Concluí um curso profissionalizante feito pela EBAC de Desenvolvedor FullStack - Python e atualmente estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Sou uma pessoa que gosta bastante de tecnologia e das ferramentas que ela proporciona, por isso, sempre quero aprender mais e mais. Visando sempre em elaborar projetos com grande qualidade e com novas ferramentas. Não quero me prender em um só estilo de trabalho em tecnologia, mas gostaria muito de uma oportunidade para me embarcar no mercado de trabalho atuando como Júnior para que isso me garanta grandes aprendizados, pois sei que com o meu potencial e interesse, irei aprender.
 
-<p align="left">
-    <a href="https://github.com/viniciusmorrone?tab=followers">
-        <img 
-        />
-    </a>
-</p>
+<h3 align="left">Connect with me!</h3>
 
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:viniciusmorronelustosa5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/viniciusmorrone/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/slv_vinyz/)
+    
 ---
 
 ### 🤖 Linguagens e Tecnologias
