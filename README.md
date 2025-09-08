@@ -5,11 +5,19 @@
 Me chamo Vinícius Morrone, tenho 18 anos e sou natural de São Paulo. Concluí um curso profissionalizante feito pela EBAC de Desenvolvedor FullStack - Python e atualmente estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Sou uma pessoa que gosta bastante de tecnologia e das ferramentas que ela proporciona, por isso, sempre quero aprender mais e mais. Visando sempre em elaborar projetos com grande qualidade e com novas ferramentas. Não quero me prender em um só estilo de trabalho em tecnologia, mas gostaria muito de uma oportunidade para me embarcar no mercado de trabalho atuando como Júnior para que isso me garanta grandes aprendizados, pois sei que com o meu potencial e interesse, irei aprender.
 
 <p align="left">
-<a href="https://github.com/viniciusmorrone?tab=followers">
+    <a href="https://github.com/viniciusmorrone?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/viniciusmorrone?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/viniciusmorrone?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no Linkedin" 
+            src="https://custom-icon-badges.demolab.com/linkedin/in/viniciusmorrone?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=In&logoColor=white"
+                https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600
         />
     </a>
 </p>
