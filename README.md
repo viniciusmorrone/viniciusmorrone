@@ -16,8 +16,7 @@ Me chamo Vinícius Morrone, tenho 18 anos e sou natural de São Paulo. Concluí 
         <img 
             alt="Seguidores" 
             title="Me siga no Linkedin" 
-            src="https://custom-icon-badges.demolab.com/linkedin/in/viniciusmorrone?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=In&logoColor=white"
-                https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600
+            src="https://custom-icon-badges.demolab.com/linkedin/in/viniciusmorrone?color=236ad3&labelColor=1155ba&style=for-the-badge&label=In&logoColor=white"
         />
     </a>
 </p>
