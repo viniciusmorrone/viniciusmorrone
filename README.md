@@ -25,7 +25,6 @@ Me chamo Vinícius Morrone, tenho 18 anos e sou natural de São Paulo. Concluí 
 
 ### 🤖 Linguagens e Tecnologias
 
-<div>
 <img 
     align="left" 
     alt="HTML"
@@ -154,7 +153,6 @@ Me chamo Vinícius Morrone, tenho 18 anos e sou natural de São Paulo. Concluí 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-</div>
 
 <br/>
 
