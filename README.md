@@ -1,6 +1,6 @@
 <div>
   <img width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=110&color=dd0afc"
+    src="https://capsule-render.vercel.app/api?type=waving&height=110&color=6495ED"
 </div>
 
 <p align="center"># 👩🏻‍💻 Vinícius Morrone
