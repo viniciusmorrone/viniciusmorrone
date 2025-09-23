@@ -175,7 +175,3 @@
   />
 
 </p>
-
-### 💻 Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciusmorrone&repo=clone_disney-plus.github.io&theme=dark)](https://github.com/clone_disney-plus/github-readme-stats)
