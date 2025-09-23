@@ -1,6 +1,6 @@
 <div>
   <img width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=110&color=6495ED"
+    src="https://capsule-render.vercel.app/api?type=waving&height=110&color=9370DB"
 </div>
 
 <p align="center"># 👩🏻‍💻 Vinícius Morrone
@@ -168,7 +168,6 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciusmorrone&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viniciusmorrone&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viniciusmorrone&theme=tokyonight&utcOffset=8) |
 | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusmorrone&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=viniciusmorrone&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) |
-| :-: | :-: |
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusmorrone&theme=tokyonight) 
   
 </div>
