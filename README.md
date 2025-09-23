@@ -175,3 +175,9 @@
   />
 
 </p>
+
+### 💻 Projetos
+
+<p>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciusmorrone&repo=viniciusmorrone.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
