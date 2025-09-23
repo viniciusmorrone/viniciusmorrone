@@ -1,4 +1,4 @@
-width:100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=dd0afc" 
+<img width:100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=dd0afc" />
 
 <p align="center"># 👩🏻‍💻 Vinícius Morrone
 <div align="center">
