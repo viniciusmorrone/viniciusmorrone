@@ -163,20 +163,12 @@
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=viniciusmorrone&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmorrone&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciusmorrone&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viniciusmorrone&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viniciusmorrone&theme=tokyonight&utcOffset=8) |
+| :-: | :-: | :-: |
 
-</p>
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusmorrone&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=viniciusmorrone&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) |
+| :-: | :-: |
+  
+</div>
