@@ -16,7 +16,7 @@
   </a>
 </div>
 
-<p align="center">Me chamo Vinícius Morrone, tenho 19 anos e sou natural de São Paulo. Concluí um curso profissionalizante feito pela EBAC de Desenvolvedor FullStack - Python e atualmente estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Sou uma pessoa que gosta bastante de tecnologia e das ferramentas que ela proporciona, por isso, sempre quero aprender mais e mais. Sou um grande colaborador, visando sempre em elaborar projetos com grande qualidade e com novas ferramentas. 
+<p align="center">Me chamo Vinícius Morrone, tenho 19 anos e sou natural de São Paulo. Concluí um curso profissionalizante feito pela EBAC de Desenvolvedor FullStack - Python e atualmente estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Sou uma pessoa que gosta bastante de tecnologia e das ferramentas que ela proporciona, por isso, sempre quero aprender mais e mais. Sou um grande colaborador, visando sempre em elaborar projetos com grande qualidade e com boas práticas. 
 
 ---
 
