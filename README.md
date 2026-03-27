@@ -14,7 +14,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/vinicius-morrone-lustosa/)])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-morrone-lustosa/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusmorronelustosa5@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/slv_vinyz/)
 
@@ -111,7 +111,7 @@ Com essa base em Python e Java, busco minha **primeira oportunidade como desenvo
 
 *Aberto a oportunidades como Desenvolvedor Back-End Júnior*
 
-[![LinkedIn](https://img.shields.io/badge/Vamos_conversar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusmorrone/)
+[![LinkedIn](https://img.shields.io/badge/Vamos_conversar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-morrone-lustosa/)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:16213e,50:1a1a2e,100:0D1117&section=footer" />
 
